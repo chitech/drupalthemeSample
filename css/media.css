@@ -1,0 +1,8 @@
+/****************************/
+/* MEDIA RESPONSIVE CSS CUSTON STYLES
+Author: Christine Brown               
+/****************************/
+.header-site-info {
+	background-color:#ff9999;
+	background-image :-moz-linear-gradient(top, #ff9999 0%, #ffcc33 100%);
+}

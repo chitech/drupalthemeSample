@@ -1,0 +1,67 @@
+
+/****************************/
+/* LOCAL CSS CUSTON STYLES
+Author: Christine Brown               
+/****************************/
+
+body {
+	line-height: 1.25em;
+}
+
+/* HOME PAGE
+------------------------------------------------------*/
+
+#logo {
+	margin:10px;
+	float:left;
+	width:200px;
+
+}
+#logo img {
+	display: block;
+	width:150px;
+	margin:auto;
+}
+
+.video-title {
+	display: block;
+	color:#4e4e4e;
+	font-weight: bold;
+	}
+
+.slides {
+	display:block;
+	position:fixed;
+	top:0;
+	right:0px;
+	left:195px;
+	z-index:5;
+}
+/* CONTENT REGIONS
+-------------------------------------------------------------- */
+
+.content {
+	padding: 10px;
+	color:#4e4e4e;
+}
+
+#footer {
+	color:#eee;
+	background-color: #ffcc33;
+	padding: 20px;
+}
+
+/* NAVIGATION
+-------------------------------------------------------------- */
+h1.title {
+	font-size: 2.5em;
+}
+
+.meta {
+	text-transform: uppercase;
+}
+
+.breadcrumb a {
+	color:#ffcc33;
+	text-decoration: none;
+}
