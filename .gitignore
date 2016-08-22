@@ -1,0 +1,8 @@
+images
+screenshot.png.jpg
+.DS_Store
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+
